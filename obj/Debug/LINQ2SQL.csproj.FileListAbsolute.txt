@@ -1,0 +1,10 @@
+B:\Sources\LINQ2SQL\bin\Debug\LINQ2SQL.exe.config
+B:\Sources\LINQ2SQL\bin\Debug\LINQ2SQL.exe
+B:\Sources\LINQ2SQL\bin\Debug\LINQ2SQL.pdb
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.csprojAssemblyReference.cache
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.Form1.resources
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.Properties.Resources.resources
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.csproj.GenerateResource.cache
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.csproj.CoreCompileInputs.cache
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.exe
+B:\Sources\LINQ2SQL\obj\Debug\LINQ2SQL.pdb
